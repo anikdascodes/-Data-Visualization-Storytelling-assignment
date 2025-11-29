@@ -1,0 +1,5 @@
+It is part of the assignment to curate the data, specifically the bifurcation of total voters as male, female and other is not available for 2019 and 2014 years. You are expected to calculate the same using voter turnout ratios which are available at the granular level. [ e.g. Total Male voters = Male votes polled/ Male turnout ratio]
+
+It is expected that the total votes [Male+ Female+ Others] computed this way would or may not tally or add up to total voters in the constituency[ That is fine].
+
+You can then construct the data set at the granular level for all three years 2024,2019, and 2014 with gender wise distribution and proceed for developing the visual. Only 10 constituencies of your choice are to be used for making the dashboard. 
